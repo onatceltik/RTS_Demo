@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Units
+  - InnerMap
+  - Preview
+  - OuterMap
+  - NavMesh
+  - GhostPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Top
+    uniqueID: 667613983
+    locked: 0
+  - name: Ground
+    uniqueID: 3879816731
+    locked: 0
+  - name: Units
+    uniqueID: 2289259241
+    locked: 0
+  - name: Preview
+    uniqueID: 341018611
+    locked: 0
+  - name: WorldUI
+    uniqueID: 629085561
+    locked: 0
